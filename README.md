@@ -12,7 +12,9 @@ Reconstruction program include three main part:
 
 The program can also be campatible with all the microscopies which aim to use rotational imaging method, like SPIM, SIM, Confocal M, etc.
 
-Sample imaging and reconstruction result can be watched [here](https://1drv.ms/u/s!AgfnwtX6aI6GzO0sLuV0MmgjOTAXBQ?e=DYVmY0). Specimen is from SIAT, followed the sample processing of standard VISoR, which is a mouse brain slice cutted as a rod and placed in a tube.
+Sample imaging and reconstruction result can be watched [here](https://1drv.ms/v/s!AgfnwtX6aI6GzO0tml4VVw7ThJ6w3w?e=VLzWeu). Specimen is from SIAT, followed the sample processing of standard VISoR, which is a mouse brain slice cutted as a rod and placed in a tube. 3D video is made by Imaris.
 
 ## Simulation Program
-In order to research the trend of resolution changed by the illumination beam full divergence and radius, I simulate the PSF of points in different coordinates with different numerical aperture for illumination lens using Rayleigh-Sommerfeld Diffraction Intergral and Fourier Optics.
+In order to research the trend of resolution changed by the illumination beam full divergence and radius, I simulate the PSF of points in different coordinates with different numerical aperture for illumination lens using Rayleigh-Sommerfeld Diffraction Intergral and Fourier Optics. The full imaging result can be readouted throught previous reconstruction program. Here is the sample imaging result of point:
+
+3D review video can be watched [here](https://1drv.ms/v/s!AgfnwtX6aI6GzO0tml4VVw7ThJ6w3w?e=Ap2lK8), produced by Imaris.
